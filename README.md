@@ -5,6 +5,7 @@
 - ✏️ Desenhista
 - 🎨 Artista
 
+![violin](https://media1.tenor.com/m/uR9-szfPVuwAAAAC/violin-playing-violin.gif)
 ![meme](https://media1.tenor.com/m/mMAILncVHgwAAAAC/1-funnie-douge-dog.gif)
 <!---
 EllanesEmillia/EllanesEmillia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
